@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:news_app/models/article_model.dart';
 
 class NewsCard extends StatelessWidget {
-  const NewsCard({
-    super.key,
-  });
+  ArticleModel articleModel;
+  NewsCard({required this.articleModel});
 
   @override
   Widget build(BuildContext context) {
@@ -14,15 +14,15 @@ class NewsCard extends StatelessWidget {
           ClipRRect(
             borderRadius: BorderRadius.circular(6),
             child: Image.network(
-              "https://www.fcbarcelonanoticias.com/uploads/s1/14/03/32/2/hansi-flick-partido.jpeg",
-              height: 213,
+              articleModel.image,
+              fit: BoxFit.cover,
             ),
           ),
-          const Text(
-              "Hansi Flick Hansi Flick Hansi Flick Hansi Flick Hansi Flick Hansi Flick Hansi Flick Hansi Flick Hansi Flick "),
-          const Text(
-            "lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+          Text(articleModel.title),
+          Text(
+            articleModel.content,
             style: TextStyle(color: Colors.grey),
+            maxLines: 2,
           )
         ],
       ),
