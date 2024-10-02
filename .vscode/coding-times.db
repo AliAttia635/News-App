@@ -1,28 +1,24 @@
 {"file_path":"c:\\Users\\ali\\AppData\\Roaming\\Code\\User\\settings.json","last_edit":1727200059191,"total_time":1272,"is_writing":0,"_id":"19Uo4hHJoN5AGH2S"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\main.dart.git","last_edit":1727051644349,"total_time":8,"is_writing":0,"_id":"8w3OTeCjguNnciXv"}
-{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\helpers\\Api.dart","last_edit":1727824335376,"total_time":577982,"is_writing":0,"_id":"E67KsgBaioBBaNyw"}
+{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\helpers\\Api.dart","last_edit":1727827182492,"total_time":631961,"is_writing":0,"_id":"E67KsgBaioBBaNyw"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Articles\\news_list_view.dart","last_edit":1727824506991,"total_time":1631160,"is_writing":0,"_id":"EhEMlNzwyxwwVLq6"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\models\\article_model.dart","last_edit":1727824371809,"total_time":220266,"is_writing":0,"_id":"JSEtnbTpkxVYEhnL"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\models\\category_model.dart","last_edit":1727826127799,"total_time":178040,"is_writing":0,"_id":"KQFQMVLyrsXKhRyw"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\main.dart","last_edit":1727051395590,"total_time":244242,"is_writing":0,"_id":"LZ86n2libosLpEE2"}
-{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\services\\news_service.dart","last_edit":1727825013276,"total_time":653885,"is_writing":0,"_id":"Od3QVDAeoR13raZP"}
+{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\services\\news_service.dart","last_edit":1727827182573,"total_time":702397,"is_writing":0,"_id":"Od3QVDAeoR13raZP"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category_card.dart","last_edit":1727042126514,"total_time":379715,"is_writing":0,"_id":"QiGIkWcQO2s0hl4U"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Articles\\news_card.dart","last_edit":1727825252551,"total_time":2090054,"is_writing":0,"_id":"WcLBLrY9wuFfZfFr"}
+{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_card.dart.git","last_edit":1727826549158,"total_time":0,"is_writing":0,"_id":"YTrV1Dgl4EVTuS92"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_list_view.dart","last_edit":1727826127885,"total_time":325122,"is_writing":0,"_id":"a7tS5YLDcADyqXqV"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\services\\categories_service.dart","last_edit":1727824928551,"total_time":12571,"is_writing":0,"_id":"boMSCf1zCDZNpnq9"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\pubspec.yaml","last_edit":1727136536757,"total_time":1410545,"is_writing":0,"_id":"kHPZXQiH3uQtgyo7"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\category_list_view.dart","last_edit":1727041911633,"total_time":4796035,"is_writing":0,"_id":"li8EuHh22wOVENuD"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\custom_text_field.dart","last_edit":1727037462966,"total_time":154547,"is_writing":0,"_id":"n2XT8DpaVrZE3Nub"}
 {"file_path":"extension-output-Dart-Code.dart-code-#2-flutter (news_app)","last_edit":1727136540125,"total_time":1373,"is_writing":0,"_id":"oImw9F65KFxW6kSO"}
-{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_card.dart","last_edit":1727826274203,"total_time":417948,"is_writing":0,"_id":"ohKfTPRfIfzCYx8S"}
-{"file_path":"git\\scm0\\input","last_edit":1727051643032,"total_time":602184,"is_writing":0,"_id":"qlpYYXkU71VNLiQj"}
+{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_card.dart","last_edit":1727826491946,"total_time":453682,"is_writing":0,"_id":"ohKfTPRfIfzCYx8S"}
+{"file_path":"git\\scm0\\input","last_edit":1727826547838,"total_time":1315832,"is_writing":0,"_id":"qlpYYXkU71VNLiQj"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\screens\\home_page.dart","last_edit":1727050966248,"total_time":6748874,"is_writing":0,"_id":"stP5g29tWxnKUNIb"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\news_card.dart","last_edit":1727048696501,"total_time":7342328,"is_writing":0,"_id":"tZSexcbJIRURxtUU"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\test\\widget_test.dart","last_edit":1727051395581,"total_time":836780,"is_writing":0,"_id":"tykxp61U28cGO06O"}
 {"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\news_list_view.dart","last_edit":1727048743838,"total_time":3483693,"is_writing":0,"_id":"xzEhvFJmIbZ0p4cf"}
-{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_card.dart","last_edit":1727826401315,"total_time":431775,"is_writing":0,"_id":"ohKfTPRfIfzCYx8S"}
-{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_card.dart","last_edit":1727826423278,"total_time":441466,"is_writing":0,"_id":"ohKfTPRfIfzCYx8S"}
-{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_card.dart","last_edit":1727826453172,"total_time":442553,"is_writing":0,"_id":"ohKfTPRfIfzCYx8S"}
-{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_card.dart","last_edit":1727826465977,"total_time":444378,"is_writing":0,"_id":"ohKfTPRfIfzCYx8S"}
-{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_card.dart","last_edit":1727826478152,"total_time":446674,"is_writing":0,"_id":"ohKfTPRfIfzCYx8S"}
-{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\widgets\\Category\\category_card.dart","last_edit":1727826491946,"total_time":453682,"is_writing":0,"_id":"ohKfTPRfIfzCYx8S"}
+{"file_path":"e:\\New Flutter Projects\\news_app\\lib\\services\\news_service.dart","last_edit":1727827346246,"total_time":705506,"is_writing":0,"_id":"Od3QVDAeoR13raZP"}

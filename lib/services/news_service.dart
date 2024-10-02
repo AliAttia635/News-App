@@ -14,9 +14,11 @@ class NewsService {
       );
       List<ArticleModel> articlesList = [];
 
-      for (int i = 0; i < data['articles'].length; i++) {
+      List<dynamic> articlesData = data['articles'];
+
+      for (int i = 0; i < articlesData.length; i++) {
         // kda bakhod kol map gaya fe el List response w ba7otaha fe el list productList 3n tarek el factor constructor
-        articlesList.add(ArticleModel.fromJson(data['articles'][i]));
+        articlesList.add(ArticleModel.fromJson(articlesData[i]));
       }
       return articlesList;
     } catch (e) {
